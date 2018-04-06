@@ -2,7 +2,7 @@ module.exports =
 
         __NEXT_REGISTER_PAGE('/about', function() {
           var comp = 
-      webpackJsonp([4],{
+      webpackJsonp([3],{
 
 /***/ "./node_modules/webpack/buildin/harmony-module.js":
 /***/ (function(module, exports) {
@@ -112,7 +112,7 @@ var _default = function _default() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("./pages/about.js");
@@ -120,7 +120,7 @@ module.exports = __webpack_require__("./pages/about.js");
 
 /***/ })
 
-},[3])
+},[2])
           return { page: comp.default }
         })
       ;
